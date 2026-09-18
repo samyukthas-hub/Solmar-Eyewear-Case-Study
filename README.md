@@ -1,5 +1,6 @@
 # Solmar Eyewear — Revenue & Marketing Performance Analysis
 **Lifesight | Round 2 Case Study**
+
 **Author:** **Samyuktha S | Christ(Deemed to be University)**
 
 
